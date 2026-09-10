@@ -23,8 +23,6 @@ else {
    else {
      System.out.print(" your age is  in odd numbers!😁");
    }
-    
-
 
     }
 }
